@@ -1,0 +1,38 @@
+body {
+  font-family: "Helvetica", "Arial", sans-serif;
+  background-color: #EFECCA;
+}
+
+h1 {
+  color: #C03000;
+}
+
+h2 {
+  color: #4BB5C1;
+}
+
+a {
+  text-decoration: none;
+}
+
+nav li {
+  display: inline;
+}
+
+nav li a {
+  padding: 0.3em 1.25em;
+  background: #C03000;
+  color: #FFFFFF;
+  border: 1px solid #660000;
+  text-align: center;
+  text-decoration: none;
+}
+
+nav li a:hover, nav li a:focus, nav li a:active {
+  background: #009900;
+  text-decoration: underline;
+}
+
+.contact {
+  color: #0000FF;
+}
