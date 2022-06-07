@@ -1,0 +1,27 @@
+body {
+  margin: 10% 30%;
+}
+
+table , td, th {
+	border-collapse: collapse;
+  text-align: left;
+  margin-right: 20px;
+}
+
+td, th {
+	padding-right: 50px;
+	width: 30px;
+	height: 25px;
+}
+
+table th {
+  background-color: lightgrey;
+}
+
+table tr:nth-child(odd){
+  background-color: #a9a9a9;
+}
+
+table tr:nth-child(even){
+  background-color: #dcdcdc;
+}
