@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+html {
+  background-color: #f5f6f8;
+}
+
+body {
+  font-family: "Roboto",Helvetica,sans-serif;
+  margin: 25px 15%;
+  padding: 25px;
+  background-color: #fff;
+  border-radius: 10px;
+}
+
+header > p:first-of-type {
+  font-style: italic;
+}
+
+header > p:last-child {
+  font-size: 0.8em;
+  font-weight: 700;
+}
+
+header > p:last-child span {
+  font-weight: 400;
+  font-style: italic;
+}
+
+main {
+  text-align: justify;
+}
+
+main cite {
+  font-weight: 700;
+  font-style: normal;
+  text-underline-position: under;
+}
+
+footer {
+  font-size: .8em;
+}
+
+footer a {
+  text-underline-position: under;
+}

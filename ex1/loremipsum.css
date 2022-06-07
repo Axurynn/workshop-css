@@ -1,0 +1,16 @@
+h1 {
+  text-align: center;
+  font-variant-caps: small-caps;
+}
+
+h2 {
+  text-decoration: underline;
+}
+
+h3 {
+  font-style: italic;
+}
+
+p {
+  text-indent: 14px;
+}
