@@ -1,0 +1,16 @@
+ol > li {
+  list-style-type: lower-greek;
+}
+
+ol > ul > dl > dt {
+  font-weight: 700;
+  font-variant-caps: small-caps;
+}
+
+ol > ul > dl > dd {
+  font-style: italic;
+}
+
+ol > ol > li {
+  list-style-type: lower-greek;
+}
