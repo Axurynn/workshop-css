@@ -11,11 +11,9 @@ h3 {
   font-style: italic;
 }
 
-
 h2 + p::first-line {
   /* La première ligne de chaque premier paragraphe après un titre de niveau 2 soit en petites capitales. */
   font-variant-caps: small-caps;
-  
 }
 
 h2 + p::first-letter {
